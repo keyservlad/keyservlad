@@ -1,7 +1,7 @@
 [![MasterHead](https://wallpaperaccess.com/full/4366864.jpg)](https://github.com/keyservlad)
 
 <h1 align="center">Hi 👋, I'm Arnaud Guilhamat</h1>
-<h3 align="center">A passionate Fullstack / frontend developer form France</h3>
+<h3 align="center">A passionate Fullstack / frontend developer from France</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
 <br/>
 
