@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
 <br/>
 
-- 🤝 I'm looking for a full time job in France or Canada for early 2023
+- 🤝 I'm looking for a full time job in France or Canada
 
 - 🔭 I’m currently working on [Emovin](https://www.emovin.fr)
 
